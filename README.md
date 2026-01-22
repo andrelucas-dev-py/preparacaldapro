@@ -21,4 +21,21 @@ O **PreparaCalda Pro** é uma solução digital desenvolvida para auxiliar produ
 
 1. **Clone o repositório:**
    ```bash
+
    git clone [https://github.com/seu-usuario/preparacalda.git](https://github.com/seu-usuario/preparacalda.git)
+
+   📋 Estrutura de Arquivos
+**app.py**: Código principal da interface e lógica de negócio.
+
+**gerar_db.py**: Script de criação e alimentação do banco de dados.
+
+**preparacalda.db**: Arquivo do banco de dados SQLite.
+
+**requirements.txt**: Lista de bibliotecas necessárias para execução.
+
+👨‍💻 **Desenvolvedor**
+**Estudante: André Lucas**
+
+**Instituição: IF Sertão - Campus Petrolina**
+
+**Curso: Análise e Desenvolvimento de Sistemas (ADS)**
