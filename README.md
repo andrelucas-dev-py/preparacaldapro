@@ -39,3 +39,18 @@ O **PreparaCalda Pro** é uma solução digital desenvolvida para auxiliar produ
 **Instituição: IF Sertão - Campus Petrolina**
 
 **Curso: Análise e Desenvolvimento de Sistemas (ADS)**
+
+
+**1- Instale as dependências:**
+bash
+pip install -r requirements.txt
+
+
+**2- Inicie o banco de dados (caso necessário):**
+bash
+python gerar_db.py
+
+**3- Execute o App:**
+bash
+python -m streamlit run app.py
+
