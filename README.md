@@ -20,11 +20,15 @@ O **PreparaCalda Pro** é uma solução digital desenvolvida para auxiliar produ
 ## 📦 Como Rodar o Projeto Localmente
 
 1. **Clone o repositório:**
-   ```bash
-
+2. ```
    git clone [https://github.com/seu-usuario/preparacalda.git](https://github.com/seu-usuario/preparacalda.git)
 
-   📋 Estrutura de Arquivos
+
+
+
+
+
+**📋 Estrutura de Arquivos**
 **app.py**: Código principal da interface e lógica de negócio.
 
 **gerar_db.py**: Script de criação e alimentação do banco de dados.
@@ -53,5 +57,6 @@ python gerar_db.py
 **3- Execute o App:**
 bash :
 python -m streamlit run app.py
+
 
 
