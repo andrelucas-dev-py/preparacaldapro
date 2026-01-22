@@ -42,15 +42,16 @@ O **PreparaCalda Pro** é uma solução digital desenvolvida para auxiliar produ
 
 
 **1- Instale as dependências:**
-bash
+bash :
 pip install -r requirements.txt
 
 
 **2- Inicie o banco de dados (caso necessário):**
-bash
+bash :
 python gerar_db.py
 
 **3- Execute o App:**
-bash
+bash :
 python -m streamlit run app.py
+
 
